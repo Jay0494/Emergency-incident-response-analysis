@@ -12,13 +12,14 @@ The focus is not just on response speed, but on identifying:
 
 ## 🎯 Business Question
 
-**Where are delays and inefficiencies occurring in the incident lifecycle (Call → Dispatch → Arrival → Treatment), and how can operations be optimised?**
+**Where are delays and inefficiencies occurring in the incident lifecycle, and how can operations be optimised?**
 
 ---
 
 ## 📊 Dashboard Preview
 
-*(Insert dashboard image here)*
+<img width="1279" height="765" alt="dashboard" src="https://github.com/user-attachments/assets/ddec8abe-3d35-473b-9284-454c84446ce0" />
+
 
 ---
 
