@@ -27,6 +27,8 @@ The focus is not just on response speed, but on identifying:
 
 This project uses a **star schema** for efficient querying and scalable analysis.
 
+<img width="981" height="645" alt="DATA MODEL" src="https://github.com/user-attachments/assets/c8b596d8-47c0-410a-a4aa-727fcee60ea8" />
+
 ### Fact Table
 
 * `fact_incident`
